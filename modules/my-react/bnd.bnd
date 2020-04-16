@@ -1,0 +1,5 @@
+Bundle-Name: my-react
+Bundle-SymbolicName: my.react
+Bundle-Version: 1.0.0
+Export-Package: my.react.constants
+Web-ContextPath: /my-react

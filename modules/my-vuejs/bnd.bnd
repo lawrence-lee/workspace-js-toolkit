@@ -1,0 +1,5 @@
+Bundle-Name: my-vuejs
+Bundle-SymbolicName: my.vuejs
+Bundle-Version: 1.0.0
+Export-Package: my.vuejs.constants
+Web-ContextPath: /my-vuejs
